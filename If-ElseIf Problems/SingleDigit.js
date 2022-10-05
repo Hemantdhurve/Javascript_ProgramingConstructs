@@ -1,5 +1,4 @@
-//var num=require("readline-sync");
-//let digit=num.question("Enter Positive Single Digit Number :");
+
 let digit=Math.floor(Math.random()*10);
 console.log("Random Single Digit Number Generated is : "+digit);
 
